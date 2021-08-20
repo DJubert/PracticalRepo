@@ -6,9 +6,9 @@ namespace PracticalRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing: Hello There!");
-
-            Console.WriteLine("Good Morning!");
+            Console.WriteLine("Testing: Hello There!")
+            Console.WriteLine("Good Morning!")
+            Console.WriteLine("This is testing!");
         }
     }
 }
