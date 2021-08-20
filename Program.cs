@@ -9,8 +9,6 @@ namespace PracticalRepo
             Console.WriteLine("Testing: Hello There!");
 
             Console.WriteLine("Good Morning!");
-
-            Console.WriteLine("Hey");
         }
     }
 }
