@@ -10,8 +10,6 @@ namespace PracticalRepo
 
 
             Console.WriteLine("Good Morning!");
-
-
         }
     }
 }
